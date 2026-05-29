@@ -7,7 +7,6 @@ node_modules/
 out/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -15,9 +14,6 @@ out/
 *.tsbuildinfo
 
 # Environment
-.env
-.env.local
-.env.production
 .env.docker
 
 # OS
@@ -39,3 +35,4 @@ coverage/
 *.d
 issue.md
 pr.md
+config.bat
